@@ -1,1 +1,1 @@
-# S3-EC
+# Document Credits
